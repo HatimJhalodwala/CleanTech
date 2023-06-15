@@ -1,4 +1,4 @@
-# CleanTech
+# CleanTech  #(OPEN CLEANTECH_ASSIGMENT FOR THE FINAL PYTHON FILE)   
 Data vizualization using Python for Solar irradiation data
 
 Created a plot involving     
